@@ -1,5 +1,7 @@
 # GLOMAP: Global Structure-from-Motion Revisited
 
+[![colab_glomap](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/glomap/blob/main/colab_glomap.ipynb) 
+
 [Project page](https://lpanaf.github.io/eccv24_glomap/) | [Paper](https://demuc.de/papers/pan2024glomap.pdf) | [ Supplementary](https://demuc.de/papers/pan2024glomap_supp.pdf)
 ---
 
